@@ -22,6 +22,16 @@
         { "agencyName":"Starks Agency", "agencylicense":"Verified","phone":"7986821456", "recruits":"Unavailable"},
         { "agencyName":"Solar Agency", "agencylicense":"Verified","phone":"9686321456", "recruits":"Available"},
         { "agencyName":"Slotty Agency", "agencylicense":"Verified","phone":"8986321456", "recruits":"Available"}  
+    ],
+
+    "cctv":
+    [
+        { "id": 121 , "floor":2 ,"starttime":"12:00:00", "stoptime":"18:00:00" },
+        { "id": 122 , "floor":1 ,"starttime":"12:00:00", "stoptime":"stillrunning" },
+        { "id": 123 , "floor":1 ,"starttime":"12:00:00", "stoptime":"stillrunning" },
+        { "id": 123 , "floor":3 ,"starttime":"12:00:00", "stoptime":"19:00:00" },
+        { "id": 123 , "floor":3 ,"starttime":"12:00:00", "stoptime":"stillrunning" }
     ]
+    
 
 }
