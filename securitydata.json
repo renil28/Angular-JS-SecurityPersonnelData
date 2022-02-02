@@ -1,0 +1,9 @@
+{
+    "securityemployee":
+    [
+        { "firstName":"John", "lastName":"Doe", "email": "JohnDoe@forenza.com" },
+        { "firstName":"Anna", "lastName":"Smith" ,"email":"AnnaSmith@forenza.com"},
+        { "firstName":"Peter", "lastName":"Jones","email":"PeterJones@forenza.com" }
+    ]
+
+}
