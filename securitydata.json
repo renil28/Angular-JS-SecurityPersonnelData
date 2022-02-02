@@ -27,11 +27,15 @@
     "cctv":
     [
         { "id": 121 , "floor":2 ,"starttime":"12:00:00", "stoptime":"18:00:00" },
-        { "id": 122 , "floor":1 ,"starttime":"12:00:00", "stoptime":"stillrunning" },
-        { "id": 123 , "floor":1 ,"starttime":"12:00:00", "stoptime":"stillrunning" },
-        { "id": 123 , "floor":3 ,"starttime":"12:00:00", "stoptime":"19:00:00" },
-        { "id": 123 , "floor":3 ,"starttime":"12:00:00", "stoptime":"stillrunning" }
-    ]
+        { "id": 122 , "floor":1 ,"starttime":"12:00:00", "stoptime":"still running" },
+        { "id": 123 , "floor":1 ,"starttime":"12:00:00", "stoptime":"still running" },
+        { "id": 124 , "floor":3 ,"starttime":"12:00:00", "stoptime":"19:00:00" },
+        { "id": 125 , "floor":3 ,"starttime":"12:00:00", "stoptime":"still running" }
+    ],
     
+    "admin":
+    [
+        { "firstName":"Renil", "lastName":"Justin", "dept":"Security","budgetalloc":500, "budgetspent":200 ,"budgetrem":300}
+    ]
 
 }
